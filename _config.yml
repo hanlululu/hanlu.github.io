@@ -2,13 +2,15 @@ title: Minimalist theme
 logo: /assets/img/logo.png
 email: hahea@dtu.dk
 description: Minimalist is a theme powered by Jekyll. It is modified based on the Minimal theme.
-show_downloads: false
-google_analytics: G-ZLK2GHB055
-color-scheme: auto
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
+theme: minimal
+markdown: kramdown
+# show_downloads: false
+# google_analytics: G-ZLK2GHB055
+# color-scheme: auto
+# plugins:
+#   - jekyll-sitemap
+#   - jekyll-seo-tag
+#   - jemoji
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
