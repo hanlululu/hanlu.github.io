@@ -2,7 +2,7 @@ title: Minimalist theme
 logo: /assets/img/logo.png
 email: hahea@dtu.dk
 description: Minimalist is a theme powered by Jekyll. It is modified based on the Minimal theme.
-theme: minimal
+theme: jekyll-theme-minimalist
 markdown: kramdown
 # show_downloads: false
 # google_analytics: G-ZLK2GHB055
