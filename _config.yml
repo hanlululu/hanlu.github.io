@@ -1,25 +1,4 @@
-title: Your Name
-email: your@email.com
-description: >- 
-  A PhD student at the Social Interaction and Neuroscience Lab (SINeLab) at DTU.
-baseurl: "" 
-url: "https://yourusername.github.io" # change to your GitHub Pages URL
-theme: plainwhite
+title: "Your Name"
+description: "A brief description about you and your work."
+theme: jekyll-theme-minimal
 
-plainwhite:
-  name: Your Name
-  tagline: PhD student at DTU
-  dark_mode: false
-  navigation:
-    - title: Home
-      url: "/"
-  social_links:
-    - title: GitHub
-      url: https://github.com/yourusername
-    - title: LinkedIn
-      url: https://www.linkedin.com/in/yourlinkedin
-
-# Optional: enable plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
